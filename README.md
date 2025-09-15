@@ -5,6 +5,13 @@ This project is part of the Google Data Analytics Capstone Case Study.
 ## 📌 Objective
 Analyze 12 months of Cyclistic trip data to understand **how annual members and casual riders use bikes differently** and support marketing strategies to convert casual riders into members.
 
+
+## 📂 Dataset
+The original raw trip data is publicly available from [Divvy / Cyclistic System Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+
+Due to file size limits, the cleaned data couldnt be included in this repository.  
+To reproduce the full analysis, download the raw data from the link above and run `cyclistic_case_study.ipynb`.
+
 ## 🛠 Tools
 - Python (pandas, numpy, matplotlib, seaborn)
 - Power BI
